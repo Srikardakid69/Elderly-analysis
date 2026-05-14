@@ -1,5 +1,5 @@
 # CA2 – Analysis of Elderly Population in Singapore
-
+## Click the ipynb file to view the full output including the python code
 ## Overview
 This project analyzes the characteristics and distribution of the elderly population in Singapore using multiple public datasets from data.gov.sg. The study focuses on how elderly residents differ by age group, gender, ambulant status, ethnic group, housing type, town, marital status, and housing tenure over time.
 
